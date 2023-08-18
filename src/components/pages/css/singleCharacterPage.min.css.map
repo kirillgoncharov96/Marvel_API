@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,YAAY,AAAC,CACT,UAAU,CAAE,IAAI,CAChB,OAAO,CAAE,IAAI,CACb,qBAAqB,CAAE,gBAAgB,CACvC,UAAU,CAAE,IAAI,CAChB,WAAW,CAAE,KAAK,CAerB,AAdI,AAAD,sBAAW,AAAC,CACR,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,KAAK,CAChB,AACA,AAAD,kBAAO,AAAC,CACJ,WAAW,CAAE,IAAI,CACjB,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,IAAI,CACpB,AACA,AAAD,mBAAQ,AAAC,CACL,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,IAAI,CACjB,UAAU,CAAE,IAAI,CACnB",
+    "sources": [
+        "../singleCharacterPage/singleCharacterPage.scss",
+        "../../../style/variables.scss"
+    ],
+    "names": [],
+    "file": "singleCharacterPage.min.css"
+}
